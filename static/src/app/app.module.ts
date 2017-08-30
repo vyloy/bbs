@@ -25,7 +25,6 @@ import {
   FabComponent,
   FabButton,
   ToTopComponent,
-  VoteBoxComponent,
   ChipComponent
 } from '../components';
 import { SafeHTMLPipe, OrderByPipe, RepalcePipe } from '../pipes';
@@ -66,7 +65,6 @@ import { DialogModule } from '../providers/dialog/dialog.module';
     FabButton,
     FixedButtonComponent,
     ToTopComponent,
-    VoteBoxComponent,
     ChipComponent,
     // Pipes
     SafeHTMLPipe,
